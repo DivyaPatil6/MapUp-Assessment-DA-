@@ -78,8 +78,7 @@ def rotate_and_multiply_matrix(matrix: List[List[int]]) -> List[List[int]]:
     - List[List[int]]: A new 2D list representing the transformed matrix.
     """
     # Your code here
-    return []
-
+    
 
 def time_check(df) -> pd.Series:
     """
